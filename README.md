@@ -38,15 +38,6 @@ You can go to the `output/` folder to look at a sample output of URLs correspond
     ```
     The output will be a JSON file containing the list of relevant URLs, saved in the `output/` directory. The script can take *~100 seconds* to run.
 
-## File Structure
-
-- `data/`: Directory for input data files.
-- `src/`: Directory for source code.
-- `tests/`: ...
-- `README.md`: Project documentation.
-- `requirements.txt`: Python dependencies.
-- `setup.py`: Setup script for the project.
-- `main.py`: Entry point for running the script.
 
 ## Breakdown
 
